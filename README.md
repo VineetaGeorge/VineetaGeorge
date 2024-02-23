@@ -5,7 +5,7 @@ Hi, I'm Vineeta!👋
 Proficient in Python, and R, and experienced in data visualization with Tableau. Skilled in Inferential Statistics and Machine Learning Algorithms, complemented by a keen interest in Natural Language Processing. 
 
 
-🔍 Uncovering Insights Beneath the Surface! Let's Connect for Analytical Adventures! 
+Let's Connect for Analytical Adventures🔍! 
 
 
 

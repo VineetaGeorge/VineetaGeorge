@@ -1,12 +1,9 @@
 Hi, I'm Vineeta!👋
 -----------------------------------------------------------
 
-🚀 Driven by a passion for analytics, I thrive on solving real-world business problems through data-driven strategies. 
-Proficient in Python, and R, and experienced in data visualization with Tableau. Skilled in Inferential Statistics and Machine Learning Algorithms, complemented by a keen interest in Natural Language Processing. 
+🚀 Driven by a passion for analytics, I thrive on solving real-world business problems through data-driven strategies. Proficient in Python, and R, and experienced in data visualization with Power BI. Skilled in Inferential Statistics and Machine Learning Algorithms, complemented by a keen interest in Natural Language Processing.
 
-
-Let's Connect for Analytical Adventures🔍! 
-
+Let's Connect for Analytical Adventures🔍!
 
 
 <!---
